@@ -1,0 +1,15 @@
+{
+  "name": "greenfield-web-app",
+  "version": "1.0.0",
+  "description": "First test of how fast I can prototype without googling a web-app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "author": "Simon van Endern",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
